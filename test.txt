@@ -1,0 +1,92 @@
+[
+	[
+		"Plant - name",
+		"Part Number",
+		"Part Description",
+		"RC OH",
+		"06-Nov-2020",
+		"13-Nov-2020",
+		"20-Nov-2020"
+	],
+	[
+		"4001-BE Winston-Salem MFG Seating",
+		"1009372-413",
+		"CUSHION ASSY-LEGREST  LH",
+		0,
+		0,
+		0,
+		0
+	],
+	[
+		"4001-BE Winston-Salem MFG Seating",
+		"1009372-414",
+		"CUSHION ASSY-LEGREST  RH",
+		0,
+		0,
+		0,
+		0
+	],
+	[
+		"4001-BE Winston-Salem MFG Seating",
+		"1009372-417",
+		"CUSHION ASSY-BACK  CVRD",
+		0,
+		0,
+		0,
+		0
+	],
+	[
+		"4001-BE Winston-Salem MFG Seating",
+		"1009372-421",
+		"CUSHION ASSY-SEATPAN",
+		0,
+		0,
+		0,
+		0
+	],
+	[
+		"4001-BE Winston-Salem MFG Seating",
+		"1009372-427",
+		"CUSHION ASSY - BACK",
+		2,
+		0,
+		0,
+		0
+	],
+	[
+		"4001-BE Winston-Salem MFG Seating",
+		"1009372-467",
+		"CUSHION-LEGREST  LH OB 737",
+		0,
+		0,
+		0,
+		0
+	],
+	[
+		"4001-BE Winston-Salem MFG Seating",
+		"1009372-468",
+		"CUSHION-LEGREST  LH OB 737",
+		0,
+		0,
+		0,
+		0
+	],
+	[
+		"4001-BE Winston-Salem MFG Seating",
+		"1009372-497",
+		"CUSHION ASSY-HEADREST",
+		0,
+		0,
+		0,
+		0
+	],
+	[
+		"4001-BE Winston-Salem MFG Seating",
+		"1009372-817",
+		"CUSHION ASSY-OTTMN, LH INBD",
+		0,
+		0,
+		0,
+		0
+	]
+]
